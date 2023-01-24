@@ -1,0 +1,101 @@
+body {
+	font-family: Nokora;
+	color: rgba(255,255,255,1);
+	font-size: 14px;
+	padding: 0;
+  	margin: 0;
+}
+
+.background {
+	width: 375px;
+	height: 680px;
+	background: #48dcfc;
+	top: 0px;
+	left: 0px;
+}
+
+.rounded {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 330px;
+}
+
+.city-input {
+	background: transparent;
+	border :1px solid #ffffff;
+	color: #ffffff;
+	flex: 1;
+}
+
+.flex-parent {
+	display: flex;
+}
+
+.icon-container {
+	flex: 0.1;
+	margin-left: 15px;
+	margin-top: 5px;
+}
+
+.top-header {
+	justify-content: center;
+	margin-right: 30px;
+}
+
+.header-text {
+	font-size: 36px;
+	margin-left: 20px;
+	margin-top: 5px;
+}
+
+.title-div {
+	width: 80%;
+    margin: 0 auto;
+}
+
+.times-table {
+	padding-top: 25px;
+	width: 80%;
+    margin: 0 auto;
+}
+
+.tg  {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+
+.tg td{
+	border-color:black;
+	border-style:solid;
+	border-width:0px;
+	overflow:hidden;
+	padding:5px 5px;
+	word-break:normal;
+}
+
+.tg th{
+	border-color:black;
+	border-style:solid;
+	border-width:0px;
+	font-weight:normal;
+	overflow:hidden;
+	padding:5px 5px;
+	word-break:normal;
+}
+
+.tg .tg-wp8o{
+	text-align:center;
+	vertical-align:top;
+}
+
+.week-table {
+	padding-top: 25px;
+	width: 80%;
+    margin: 0 auto;
+}
+
+.footer-img {
+	padding-top: 22px;
+	width: 375px;
+}
